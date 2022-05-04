@@ -1,0 +1,40 @@
+.table-header {
+    background-color: #F7FAFC;
+}
+
+.table-header-wrapper {
+    background-color: #E2E8F0;
+    border-width: 1px;
+    border-color: black;
+}
+
+.table-header-item {
+    padding: 10px 150px 10px 5px;
+    text-align: left;
+}
+
+.table-header-item1 {
+    padding: 10px 70px 10px 5px;
+}
+
+.styles {
+    text-align: left;
+    background-color: rgb(247, 251, 255);
+    /* padding: 10px 150px 10px 5px; */
+}
+
+.styles1 {
+    text-align: right;
+    background-color: rgb(247, 251, 255);
+}
+
+.container {
+    margin: 2px;
+    border-width: 1px;
+    border-color: black;
+}
+
+.container1 {
+    flex: 1;
+    flex-direction: row;
+}
